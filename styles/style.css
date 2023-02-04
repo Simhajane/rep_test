@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
